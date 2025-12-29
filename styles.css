@@ -1,1 +1,25 @@
 /* your code */
+
+table{
+	border:1px solid black;
+	border-radius:20px;
+	border-collapse:collapse;
+	
+}
+thead{
+	border:inherit;
+background-color:blue;
+	
+}
+th{
+	text-align:center;
+	color:white;
+	padding:10px 20px;
+}
+td{
+	background-color:lightgray;
+	border:wheat 1px solid
+}
+
+	
+
